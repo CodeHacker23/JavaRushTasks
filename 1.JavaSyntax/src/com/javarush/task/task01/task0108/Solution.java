@@ -1,7 +1,7 @@
 package com.javarush.task.task01.task0108;
 
 /* 
-2 + 3 = 5
+2 + 3 = 5 28/09/23
 */
 
 public class Solution {

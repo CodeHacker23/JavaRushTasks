@@ -1,7 +1,7 @@
 package com.javarush.task.pro.task02.task0219;
 
 /* 
-Баги робокопа
+Баги робокопа 28/09/23
 */
 
 public class Solution {

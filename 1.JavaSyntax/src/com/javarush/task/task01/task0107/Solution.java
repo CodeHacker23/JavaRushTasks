@@ -1,7 +1,7 @@
 package com.javarush.task.task01.task0107;
 
-/* 
-Комментарии излишни
+/*
+Комментарии излишни 28/09/23
 */
 
 public class Solution {
