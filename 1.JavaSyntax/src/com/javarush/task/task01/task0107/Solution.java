@@ -15,6 +15,7 @@ public class Solution {
         x = y - x;
         y = y - x;
 
+
         System.out.println(x);
         System.out.println(y);
     }
