@@ -16,20 +16,20 @@ public class Solution {
         int three = scr.nextInt();
 
          if(one == two && one == three){
-             System.out.print(one);
-             System.out.print(two);
+             System.out.print(one + " ");
+             System.out.print(two + " ");
              System.out.print(three);
 
          }else if (one == three){
-             System.out.print(one);
+             System.out.print(one + " ");
              System.out.print(three);
 
          }else if (two == three) {
-             System.out.print(two);
+             System.out.print(two + " ");
              System.out.print(three);
 
          } else if(one == two ) {
-             System.out.print(one);
+             System.out.print(one + " ");
              System.out.print(two);
          }
 
